@@ -13,7 +13,6 @@
 mnist/
 caffe/
 grasp/
-images/
 opencv/
 convnet/
 decaf/
